@@ -1,1 +1,2 @@
-The jenkins build worked! v0.1
+#!/bin/sh
+echo "Hello Jenkins!"
